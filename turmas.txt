@@ -1,0 +1,2 @@
+;boaventrua;2025.1;p1;false;10;12:00-14:00;70;
+;boaventura;2025.2;P1;false;10;SEX 08:00-10:00;40;

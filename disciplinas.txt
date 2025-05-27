@@ -1,0 +1,2 @@
+orientacao a objeto;cd666;60;
+Poo;cd123;60;
